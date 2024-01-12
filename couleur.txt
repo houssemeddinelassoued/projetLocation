@@ -1,2 +1,1 @@
 Gris: #222
-Rouge: #f00
